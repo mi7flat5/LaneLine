@@ -45,6 +45,7 @@ in order to address the extraneous artifact problem. I could create a tighter ma
 I think the best approach would be to ignore lines that are greater than or less than a certain angle tollerance. 
 
 ### 4. Final thoughts
+I've added the output videos to this repositiory in directory tests_videos_output.
 I'm relatively happy with how this turned out. 
 I would like the yellow line video to perform a little better. 
 If I optimize the pipeline to work with
